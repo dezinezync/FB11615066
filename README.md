@@ -19,7 +19,8 @@ The app instead presents key commands from Springboard (Homescreen).
 
 Apps built with prior versions of the SDK (15.5) exhibit the correct behaviour. 
 
-Sample code and screenshot attached (https://github.com/dezinezync/FB11615066)
+Sample code and screenshot attached
 
 Xcode Version: 14.0.1 (14A400)
 
+OpenRadar: http://openradar.appspot.com/radar?id=5603568748855296 
